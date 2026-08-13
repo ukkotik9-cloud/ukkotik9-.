@@ -13,6 +13,12 @@
             margin: 0;
             padding: 20px;
         }
+        .banner {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
         h1 {
             color: #ff9999;
             font-size: 28px;
@@ -37,10 +43,15 @@
     </style>
 </head>
 <body>
+
+    <img src="IMG_20260813_224025_365.jpg" alt="UKKOTIK9 Банер" class="banner">
+
     <h1>UKKOTIK9</h1>
     <p>Арти та зображення</p>
-    
-    <a href="#" class="btn">💙 Я Котик 💛</a>
+
+    <a href="#" class="btn">💙 Я Котік💛</a>
     <a href="#" class="btn">Відео</a>
+
 </body>
 </html>
+
